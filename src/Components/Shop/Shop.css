@@ -1,0 +1,12 @@
+.shop{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.product-details{
+    flex: 5;
+    border-right: 1px solid rgba(255, 255, 255, 0.645);
+}
+.chat-side{
+    flex: 2;
+}
